@@ -6,7 +6,7 @@
   </Folder>
   <Folder Name="/examples/" />
   <Folder Name="/src/">
-    <Project Path="StarCitizen.API/StarCitizen.API.csproj" Id="e61ffee7-a2d4-41ec-b385-9de2f31bd42a" />
+    <Project Path="src/StarCitizen.API/StarCitizen.API.csproj" Id="e61ffee7-a2d4-41ec-b385-9de2f31bd42a" />
   </Folder>
   <Folder Name="/tests/" />
 </Solution>
